@@ -1,6 +1,6 @@
-# ETA-TEST
-JMU-ETA github。。
+# 数学建模
+-----
+## language python or matlab
 
-
-
-github 上传测试
+### QQ:2647180055
+### E-mail:maserowen718@gmail.com
