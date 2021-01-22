@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/world.js"></script>
+
+</head>
+<body>
+    <div id="9bef3312c5ad470fa1cfce3c44d83f5f" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_9bef3312c5ad470fa1cfce3c44d83f5f = echarts.init(
+            document.getElementById('9bef3312c5ad470fa1cfce3c44d83f5f'), 'white', {renderer: 'canvas'});
+        var option_9bef3312c5ad470fa1cfce3c44d83f5f = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "map",
+            "name": "score",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            },
+            "mapType": "world",
+            "data": [
+                {
+                    "name": "China",
+                    "value": 0.39720680802348207
+                },
+                {
+                    "name": "India",
+                    "value": 0.428204506858802
+                },
+                {
+                    "name": "United States",
+                    "value": 0.9900211345279509
+                },
+                {
+                    "name": "Indonesia",
+                    "value": 0.25435192493187775
+                },
+                {
+                    "name": "Pakistan",
+                    "value": 0.22443288336625428
+                },
+                {
+                    "name": "Russia",
+                    "value": 0.2716981968410572
+                },
+                {
+                    "name": "Mexico",
+                    "value": 0.23960730965952579
+                },
+                {
+                    "name": "Japan",
+                    "value": 0.41512566422813746
+                },
+                {
+                    "name": "Germany",
+                    "value": 0.3788820193003114
+                },
+                {
+                    "name": "France",
+                    "value": 0.36787672949125005
+                },
+                {
+                    "name": "United Kingdom",
+                    "value": 0.36998327311319723
+                },
+                {
+                    "name": "Thailand",
+                    "value": 0.19096693756015007
+                },
+                {
+                    "name": "Canada",
+                    "value": 0.24695474209259038
+                }
+            ],
+            "roam": true,
+            "aspectScale": 0.75,
+            "nameProperty": "name",
+            "selectedMode": false,
+            "zoom": 1,
+            "mapValueCalculation": "sum",
+            "showLegendSymbol": true,
+            "emphasis": {},
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "score"
+            ],
+            "selected": {
+                "score": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "Influence Index of nations",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 15
+            }
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "continuous",
+        "min": 0,
+        "max": 1,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 140,
+        "borderWidth": 0
+    }
+};
+        chart_9bef3312c5ad470fa1cfce3c44d83f5f.setOption(option_9bef3312c5ad470fa1cfce3c44d83f5f);
+    </script>
+</body>
+</html>

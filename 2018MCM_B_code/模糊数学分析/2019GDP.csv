@@ -1,0 +1,271 @@
+Country,data
+World,87697.50 
+High income,55045.40 
+East Asia & Pacific,26979.80 
+Upper middle income,25817.10 
+North America,23117.80 
+Europe & Central Asia,22748.80 
+United States,21374.40 
+China,14342.90 
+Lower middle income,6341.10 
+Latin America & Caribbean,5719.30 
+Japan,5081.80 
+Germany,3845.60 
+Middle East & North Africa,3701.40 
+South Asia,3598.00 
+India,2875.10 
+United Kingdom,2827.10 
+France,2715.50 
+Italy,2001.20 
+Brazil,1839.80 
+Sub-Saharan Africa,1755.00 
+Canada,1736.40 
+Russia,1699.90 
+"Korea, Rep.",1642.40 
+Spain,1394.10 
+Australia,1392.70 
+Mexico,1258.30 
+Indonesia,1119.20 
+Netherlands,909.10 
+Saudi Arabia,793.00 
+Turkey,754.40 
+Switzerland,703.10 
+Poland,592.20 
+Thailand,543.60 
+Sweden,530.80 
+Belgium,529.60 
+Low income,521.30 
+Argentina,449.70 
+Nigeria,448.10 
+Austria,446.30 
+"Iran, Islamic Rep.",445.30 
+United Arab Emirates,421.10 
+Norway,403.30 
+Israel,395.10 
+Ireland,388.70 
+Philippines,376.80 
+Singapore,372.10 
+"Hong Kong SAR, China",366.00 
+Malaysia,364.70 
+South Africa,351.40 
+Denmark,348.10 
+Colombia,323.80 
+"Egypt, Arab Rep.",303.20 
+Bangladesh,302.60 
+Chile,282.30 
+Pakistan,278.20 
+Finland,268.80 
+Vietnam,261.90 
+Romania,250.10 
+Czech Republic,246.50 
+Portugal,237.70 
+Iraq,234.10 
+Peru,226.80 
+Greece,209.90 
+New Zealand,206.90 
+Qatar,183.50 
+Kazakhstan,180.20 
+Algeria,170.00 
+Hungary,161.00 
+Ukraine,153.80 
+Kuwait,134.80 
+Morocco,118.70 
+Ecuador,107.40 
+Slovak Republic,105.40 
+Puerto Rico,105.00 
+Cuba,100.00 
+Ethiopia,96.10 
+Kenya,95.50 
+Angola,94.60 
+Dominican Republic,88.90 
+Sri Lanka,84.00 
+Oman,77.00 
+Guatemala,76.70 
+Myanmar,76.10 
+Luxembourg,71.10 
+Bulgaria,67.90 
+Ghana,67.00 
+Panama,66.80 
+Tanzania,63.20 
+Belarus,63.10 
+Costa Rica,61.80 
+Croatia,60.40 
+Cote d'Ivoire,58.80 
+Uzbekistan,57.90 
+Uruguay,56.00 
+Lithuania,54.20 
+"Macao SAR, China",53.90 
+Slovenia,53.70 
+Lebanon,53.40 
+Libya,52.10 
+Serbia,51.40 
+Azerbaijan,48.00 
+"Congo, Dem. Rep.",47.30 
+Jordan,43.70 
+Bolivia,40.90 
+Turkmenistan,40.80 
+Cameroon,38.80 
+Tunisia,38.80 
+Bahrain,38.60 
+Paraguay,38.10 
+Uganda,34.40 
+Latvia,34.10 
+Estonia,31.40 
+Nepal,30.60 
+"Yemen, Rep.",27.60 
+Cambodia,27.10 
+El Salvador,27.00 
+Honduras,25.10 
+Papua New Guinea,25.00 
+Cyprus,24.60 
+Iceland,24.20 
+Trinidad and Tobago,24.10 
+Senegal,23.60 
+Zambia,23.10 
+Zimbabwe,21.40 
+Bosnia and Herzegovina,20.00 
+Afghanistan,19.10 
+Sudan,18.90 
+Botswana,18.30 
+Lao PDR,18.20 
+Georgia,17.70 
+Mali,17.50 
+Gabon,16.70 
+Jamaica,16.50 
+Burkina Faso,15.70 
+Albania,15.30 
+Mozambique,14.90 
+Malta,14.80 
+West Bank and Gaza,14.60 
+Benin,14.40 
+Mauritius,14.20 
+Madagascar,14.10 
+Mongolia,13.90 
+Armenia,13.70 
+Guinea,13.60 
+Brunei Darussalam,13.50 
+Niger,12.90 
+"Bahamas, The",12.80 
+North Macedonia,12.70 
+Nicaragua,12.50 
+Namibia,12.40 
+Moldova,12.00 
+Chad,11.30 
+Equatorial Guinea,11.00 
+"Congo, Rep.",10.80 
+Rwanda,10.10 
+Haiti,8.50 
+Kyrgyz Republic,8.50 
+Tajikistan,8.10 
+Kosovo,7.90 
+Malawi,7.70 
+Mauritania,7.60 
+Monaco,7.20 
+Isle of Man,6.80 
+Liechtenstein,6.60 
+Guam,5.90 
+Maldives,5.70 
+Cayman Islands,5.50 
+Fiji,5.50 
+Montenegro,5.50 
+Togo,5.50 
+Barbados,5.20 
+Eswatini,4.40 
+Guyana,4.30 
+Suriname,4.00 
+Sierra Leone,3.90 
+Virgin Islands (U.S.),3.90 
+Djibouti,3.30 
+Andorra,3.20 
+Aruba,3.10 
+Curacao,3.10 
+Greenland,3.10 
+Liberia,3.10 
+Burundi,3.00 
+Faroe Islands,2.80 
+Lesotho,2.50 
+Bhutan,2.40 
+Central African Republic,2.20 
+St. Lucia,2.10 
+Cabo Verde,2.00 
+Belize,1.90 
+"Gambia, The",1.80 
+Antigua and Barbuda,1.70 
+Seychelles,1.70 
+Timor-Leste,1.70 
+San Marino,1.60 
+Solomon Islands,1.40 
+Guinea-Bissau,1.30 
+Northern Mariana Islands,1.30 
+Comoros,1.20 
+Grenada,1.20 
+St. Kitts and Nevis,1.10 
+Turks and Caicos Islands,1.00 
+Samoa,0.90 
+Vanuatu,0.90 
+St. Vincent and the Grenadines,0.80 
+American Samoa,0.60 
+Dominica,0.60 
+Tonga,0.50 
+"Micronesia, Fed. Sts.",0.40 
+Sao Tome and Principe,0.40 
+Palau,0.30 
+Kiribati,0.20 
+Marshall Islands,0.20 
+Tuvalu,0.00 
+,
+Most Recent Value (MRV) if data for the specified year or full period are not available; or growth rate is calculated for less than the full period.,
+,
+4.2 Structure of output,
+,
+"World Development Indicators , THE WORLD BANK",
+Last updated date 10/13/2020,
+,
+About the Data,
+,
+GDP (current US$),
+Long definition,
+"GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in current U.S. dollars. Dollar figures for GDP are converted from domestic currencies using single year official exchange rates. For a few countries where the official exchange rate does not reflect the rate effectively applied to actual foreign exchange transactions, an alternative conversion factor is used.",
+,
+Source,
+"World Bank national accounts data, and OECD National Accounts data files.",
+,
+"Agriculture, value added (% of GDP)",
+Long definition,
+"Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3 or 4.",
+,
+Source,
+"World Bank national accounts data, and OECD National Accounts data files.",
+,
+General comments,
+"Note: Data for OECD countries are based on ISIC, revision 4.",
+,
+"Industry, value added (% of GDP)",
+Long definition,
+"Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3 or 4.",
+,
+Source,
+"World Bank national accounts data, and OECD National Accounts data files.",
+,
+General comments,
+"Note: Data for OECD countries are based on ISIC, revision 4.",
+,
+"Manufacturing, value added (% of GDP)",
+Long definition,
+"Manufacturing refers to industries belonging to ISIC divisions 15-37. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3. Note: For VAB countries, gross value added at factor cost is used as the denominator.",
+,
+Source,
+"World Bank national accounts data, and OECD National Accounts data files.",
+,
+General comments,
+"Note: Data for OECD countries are based on ISIC, revision 4.",
+,
+"Services, value added (% of GDP)",
+Long definition,
+"Services correspond to ISIC divisions 50-99 and they include value added in wholesale and retail trade (including hotels and restaurants), transport, and government, financial, professional, and personal services such as education, health care, and real estate services. Also included are imputed bank service charges, import duties, and any statistical discrepancies noted by national compilers as well as discrepancies arising from rescaling. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. It is calculated without making deductions for depreciation of fabricated assets or depletion and degradation of natural resources. The industrial origin of value added is determined by the International Standard Industrial Classification (ISIC), revision 3 or 4.",
+,
+Source,
+"World Bank national accounts data, and OECD National Accounts data files.",
+,
+,
+"Please see the online table at http://wdi.worldbank.org/table/4.2 for observation-level metadata, which can be downloaded in Excel.",
