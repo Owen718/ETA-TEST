@@ -1,0 +1,606 @@
+MSN,Description
+ABICB,Aviation gasoline blending components consumed by the industrial sector.
+ABICP,Aviation gasoline blending components consumed by the industrial sector.
+ARICB,Asphalt and road oil consumed by the industrial sector.
+ARICD,Asphalt and road oil price in the industrial sector.
+ARICP,Asphalt and road oil consumed by the industrial sector.
+ARICV,Asphalt and road oil expenditures in the industrial sector.
+ARTCB,Asphalt and road oil total consumption.
+ARTCD,"Asphalt and road oil average price, all sectors."
+ARTCP,Asphalt and road oil total consumption.
+ARTCV,Asphalt and road oil total expenditures.
+ARTXB,Asphalt and road oil total end-use consumption.
+ARTXD,"Asphalt and road oil average price, all end-use sectors."
+ARTXP,Asphalt and road oil total end-use consumption.
+ARTXV,Asphalt and road oil total end-use expenditures.
+AVACB,Aviation gasoline consumed by the transportation sector.
+AVACD,Aviation gasoline price in the transportation sector.
+AVACP,Aviation gasoline consumed by the transportation sector.
+AVACV,Aviation gasoline expenditures in the transportation sector.
+AVTCB,Aviation gasoline total consumption.
+AVTCD,"Aviation gasoline average price, all sectors."
+AVTCP,Aviation gasoline total consumption.
+AVTCV,Aviation gasoline total expenditures.
+AVTXB,Aviation gasoline total end-use consumption.
+AVTXD,"Aviation gasoline average price, all end-use sectors."
+AVTXP,Aviation gasoline total end-use consumption.
+AVTXV,Aviation gasoline total end-use expenditures.
+BMTCB,Biomass total consumption
+CCEXB,Coal coke exported from the United States. 
+CCEXD,"Coal coke exports average price, United States."
+CCEXP,Coal coke exported from the United States. 
+CCEXV,"Coal coke exports expenditures, United States."
+CCIMB,Coal coke imported into the United States.
+CCIMD,"Coal coke imports average price, United States."
+CCIMP,Coal coke imported into the United States.
+CCIMV,"Coal coke imports expenditures, United States."
+CCNIB,Coal coke net imports into the United States.
+CCNIP,Coal coke net imports into the United States.
+CCNIV,"Coal coke net imports expenditures, United States."
+CLACB,Coal consumed by the transportation sector.
+CLACD,Coal price in the transportation sector.
+CLACK,Factor for converting coal consumed by the transportation sector from physical units to Btu.
+CLACP,Coal consumed by the transportation sector.
+CLACV,Coal expenditures in the transportation sector.
+CLCCB,Coal consumed by the commercial sector.
+CLCCD,Coal price in the commercial sector.
+CLCCP,Coal consumed by the commercial sector.
+CLCCV,Coal expenditures in the commercial sector.
+CLEIB,Coal consumed by the electric power sector.
+CLEID,Coal price in the electric power sector.
+CLEIK,Factor for converting coal consumed by the electric power sector from physical units to Btu.
+CLEIP,Coal consumed by the electric power sector.
+CLEIV,Coal expenditures in the electric power sector.
+CLHCK,Factor for converting coal consumed by the residential and commercial sectors from physical units to Btu.
+CLICB,Coal consumed by the industrial sector.
+CLICD,Coal price in the industrial sector.
+CLICP,Coal consumed by the industrial sector.
+CLICV,Coal expenditures in the industrial sector.
+CLKCB,Coal consumed at coke plants (coking coal).
+CLKCD,Coal price at coke plants.
+CLKCK,Factor for converting coal carbonized at coke plants from physical units to Btu.
+CLKCP,Coal consumed at coke plants (coking coal).
+CLKCV,Coal expenditures at coke plants.
+CLOCB,Coal consumed by industrial users other than coke plants.
+CLOCD,Coal price in the industrial sector other than coke plants.
+CLOCK,Factor for converting coal consumed by industrial users other than coke plants from physical units to Btu.
+CLOCP,Coal consumed by industrial users other than coke plants.
+CLOCV,Coal expenditures in the industrial sector other than coke plants.
+CLOSB,Coal consumed by the industrial sector excluding refinery fuel.
+CLPRB,Coal production.
+CLPRK,Factor for converting coal production from physical units to Btu.
+CLPRP,Coal production.
+CLRCB,Coal consumed by the residential sector.
+CLRCD,Coal price in the residential sector.
+CLRCP,Coal consumed by the residential sector.
+CLRCV,Coal expenditures in the residential sector.
+CLRFB,Coal consumed as refinery fuel.
+CLTCB,Coal total consumption.
+CLTCD,"Coal average price, all sectors."
+CLTCP,Coal total consumption.
+CLTCV,Coal total expenditures.
+CLTXB,Coal total end-use consumption.
+CLTXD,"Coal average price, all end-use sectors."
+CLTXP,Coal total end-use consumption.
+CLTXV,Coal total end-use expenditures.
+CLXCD,Coal average price for all sectors excluding refinery fuel.
+CLXCV,Coal expenditures for all sectors excluding refinery fuel.
+COICB,Crude oil consumed by the industrial sector.
+COICP,Crude oil consumed by the industrial sector.
+COPRK,Factor for converting crude oil production from physical units to Btu.
+DFACB,Distillate fuel oil consumed by the transportation sector.
+DFACD,Distillate fuel oil price in the transportation sector.
+DFACP,Distillate fuel oil consumed by the transportation sector.
+DFACV,Distillate fuel oil expenditures in the transportation sector.
+DFCCB,Distillate fuel oil consumed by the commercial sector.
+DFCCD,Distillate fuel oil price in the commercial sector.
+DFCCP,Distillate fuel oil consumed by the commercial sector.
+DFCCV,Distillate fuel oil expenditures in the commercial sector.
+DFEID,Distillate fuel oil price in the electric power sector.
+DFEIV,Distillate fuel oil expenditures in the electric power sector.
+DFICB,Distillate fuel oil consumed by the industrial sector.
+DFICD,Distillate fuel oil price in the industrial sector.
+DFICP,Distillate fuel oil consumed by the industrial sector.
+DFICV,Distillate fuel oil expenditures in the industrial sector.
+DFISB,Distillate fuel oil consumed by the industrial sector excluding refinery fuel.
+DFRCB,Distillate fuel oil consumed by the residential sector.
+DFRCD,Distillate fuel oil price in the residential sector.
+DFRCP,Distillate fuel oil consumed by the residential sector.
+DFRCV,Distillate fuel oil expenditures in the residential sector.
+DFRFB,Distillate fuel oil consumed as refinery fuel.
+DFTCB,Distillate fuel oil total consumption.
+DFTCD,"Distillate fuel oil average price, all sectors."
+DFTCP,Distillate fuel oil total consumption.
+DFTCV,Distillate fuel oil total expenditures.
+DFTXB,Distillate fuel oil total end-use consumption.
+DFTXD,"Distillate fuel oil average price, all end-use sectors."
+DFTXP,Distillate fuel oil total end-use consumption.
+DFTXV,Distillate fuel oil total end-use expenditures.
+DKEIB,Distillate fuel oil and kerosene-type jet fuel consumed by the electric power sector.
+DKEID,Distillate fuel oil and kerosene-type jet fuel average price in the electric power sector.
+DKEIP,Distillate fuel oil and kerosene-type jet fuel consumed by the electric power sector.
+DKEIV,Distillate fuel oil and kerosene-type jet fuel expenditures in the electric power sector.
+ELEXB,Electricity exported from the United States.
+ELEXD,Electricity exports average price.
+ELEXP,Electricity exported from the United States.
+ELEXV,Electricity exports expenditures.
+ELIMB,Electricity imported into the United States.
+ELIMD,Electricity imports average price.
+ELIMP,Electricity imported into the United States.
+ELIMV,Electricity imports expenditures.
+ELISB,Net interstate sales of electricity and associated losses (negative and positive values).
+ELNIB,Net imports of electricity into the United States.
+ELNIP,Net imports of electricity into the United States.
+EMACB,"Fuel ethanol, excluding denaturant, consumed by the transportation sector.   "
+EMACV,"Fuel ethanol, excluding denaturant, expenditures in the transportation sector."
+EMCCB,"Fuel ethanol, excluding denaturant, consumed by the commercial sector "
+EMCCV,"Fuel ethanol, excluding denaturant, expenditures in the commercial sector."
+EMFDB,Biomass inputs (feedstock) for the production of fuel ethanol.
+EMICB,"Fuel ethanol, excluding denaturant, consumed by the industrial sector. "
+EMICV,"Fuel ethanol, excluding denaturant, expenditures in the industrial sector."
+EMLCB,Energy losses and co-products from the production of fuel ethanol.
+EMTCB,"Fuel ethanol, excluding denaturant, total consumption."
+EMTCP,"Fuel ethanol, excluding denaturant, total consumption."
+EMTCV,"Fuel ethanol, excluding denaturant, total expenditures."
+ENACP,"Fuel ethanol, including denaturant, consumed by the transportation sector."
+ENCCP,"Fuel ethanol, including denaturant, consumed by the commercial sector."
+ENICP,"Fuel ethanol, including denaturant, consumed by the industrial sector."
+ENPRP,"Fuel ethanol production, including denaturant."
+ENTCK,Factor for converting fuel ethanol consumption from physical units to Btu.
+ENTCP,"Fuel ethanol, including denaturant, total consumption."
+ESACB,"Electricity consumed by (i.e., sold to) the transportation sector."
+ESACD,Electricity price in the transportation sector.
+ESACP,"Electricity consumed by (i.e., sold to) the transportation sector."
+ESACV,Electricity expenditures in the transportation sector.
+ESCCB,"Electricity consumed by (i.e., sold to) the commercial sector."
+ESCCD,Electricity price in the commercial sector.
+ESCCP,"Electricity consumed by (i.e., sold to) the commercial sector."
+ESCCV,Electricity expenditures in the commercial sector.
+ESICB,"Electricity consumed by (i.e., sold to) the industrial sector."
+ESICD,Electricity price in the industrial sector.
+ESICP,"Electricity consumed by (i.e., sold to) the industrial sector."
+ESICV,Electricity expenditures in the industrial sector.
+ESISB,Electricity sales to the industrial sector excluding refinery use.
+ESRCB,"Electricity consumed by (i.e., sold to) the residential sector."
+ESRCD,Electricity price in the residential sector.
+ESRCP,"Electricity consumed by (i.e., sold to) the residential sector."
+ESRCV,Electricity expenditures in the residential sector.
+ESRFB,Electricity consumed by refineries.
+ESTCB,"Electricity total consumption (i.e., sold)."
+ESTCD,"Electricity average price, all sectors."
+ESTCP,"Electricity total consumption (i.e., sold)."
+ESTCV,Electricity total expenditures.
+ESTXB,"Electricity total end-use consumption (i.e., sold)."
+ESTXD,"Electricity average price, all end-use sectors."
+ESTXP,"Electricity total end-use consumption (i.e., sold)."
+ESTXV,Electricity total end-use expenditures.
+FFETK,"Fossil fueled steam-electric power plant conversion factor, United States only."
+FFTCB,"Fossil fuelS, total consumption."
+FNICB,"Petrochemical feedstocks, naphtha less than 401 degrees F, consumed by the industrial sector."
+FNICD,"Petrochemical feedstocks, naphtha less than 401 F, price in the industrial sector."
+FNICP,"Petrochemical feedstocks, naphtha less than 401 degrees F, consumed by the industrial sector."
+FNICV,"Petrochemical feedstocks, naphtha less than 401 F, expenditures in the industrial sector."
+FOICB,"Petrochemical feedstocks, other oils equal to or greater than 401 degrees F, consumed by the industrial sector."
+FOICD,"Petrochemical feedstocks, other oils equal to or greater than 401 degrees F, price in the industrial sector."
+FOICP,"Petrochemical feedstocks, other oils equal to or greater than 401 degrees F, consumed by the industrial sector."
+FOICV,"Petrochemical feedstocks, other oils equal to or greater than 401 degrees F, expenditures in the industrial sector."
+FSICB,"Petrochemical feedstocks, still gas, consumed by the industrial sector."
+FSICD,"Petrochemical feedstocks, still gas, price in the industrial sector."
+FSICP,"Petrochemical feedstocks, still gas, consumed by the industrial sector."
+FSICV,"Petrochemical feedstocks, still gas, expenditures in the industrial sector."
+GDPRV,Current-dollar gross domestic product.
+GDPRX,Real gross domestic product.
+GECCB,Direct use of geothermal energy and heat pumps in the commercial sector.
+GEEGB,Electricity produced from geothermal energy by the electric power sector.
+GEEGP,Electricity produced from geothermal energy by the electric power sector.
+GEICB,Direct use of geothermal energy and heat pumps in the industrial sector.
+GERCB,Direct use of geothermal energy and heat pumps in the residential sector.
+GETCB,Geothermal energy total consumption.
+GETXB,Geothermal total end-use consumption.
+GOCCB,Geothermal energy and hydroelectricity consumed in the commercial sector.
+GORCB,Geothermal and solar energy consumed in the residential sector.
+HYCCB,Hydroelectricity produced in the commercial sector.
+HYCCP,Hydroelectricity produced in the commercial sector.
+HYEGB,Hydroelectricity produced by the electric power sector.
+HYEGP,Hydroelectricity produced by the electric power sector.
+HYICB,Hydroelectricity produced in the industrial sector.
+HYICP,Hydroelectricity produced in the industrial sector.
+HYTCB,Hydroelectricity total production.
+HYTCP,Hydroelectricity total production.
+HYTXB,Hydroelectricity produced by the end-use sectors.
+HYTXP,Hydroelectricity produced by the end-use sectors.
+JFACB,Jet fuel consumed by the transportation sector.
+JFACD,Jet fuel price in the transportation sector.
+JFACP,Jet fuel consumed by the transportation sector.
+JFACV,Jet fuel expenditures in the transportation sector.
+JFTCB,Jet fuel total consumption.
+JFTCD,"Jet fuel average price, all sectors."
+JFTCP,Jet fuel total consumption.
+JFTCV,Jet fuel total expenditures.
+JFTXB,Jet fuel total end-use consumption.
+JFTXD,"Jet fuel average price, all end-use sectors."
+JFTXP,Jet fuel total end-use consumption.
+JFTXV,Jet fuel total end-use expenditures.
+JKACB,Kerosene-type jet fuel consumed by the transportation sector.
+JKACP,Kerosene-type jet fuel consumed by the transportation sector.
+JKTCB,Kerosene-type jet fuel total consumption.
+JKTCP,Kerosene-type jet fuel total consumption.
+JNACB,Naphtha-type jet fuel consumed by the transportation sector.
+JNACP,Naphtha-type jet fuel consumed by the transportation sector.
+JNTCB,Naphtha-type jet fuel total consumption.
+JNTCP,Naphtha-type jet fuel total consumption.
+KSCCB,Kerosene consumed by the commercial sector.
+KSCCD,Kerosene price in the commercial sector.
+KSCCP,Kerosene consumed by the commercial sector.
+KSCCV,Kerosene expenditures in the commercial sector.
+KSICB,Kerosene consumed by the industrial sector.
+KSICD,Kerosene price in the industrial sector.
+KSICP,Kerosene consumed by the industrial sector.
+KSICV,Kerosene expenditures in the industrial sector.
+KSRCB,Kerosene consumed by the residential sector.
+KSRCD,Kerosene price in the residential sector.
+KSRCP,Kerosene consumed by the residential sector.
+KSRCV,Kerosene expenditures in the residential sector.
+KSTCB,Kerosene total consumption.
+KSTCD,"Kerosene average price, all sectors."
+KSTCP,Kerosene total consumption.
+KSTCV,Kerosene total expenditures.
+KSTXB,Kerosene total end-use consumption.
+KSTXD,"Kerosene average price, all end-use sectors."
+KSTXP,Kerosene total end-use consumption.
+KSTXV,Kerosene total end-use expenditures.
+LGACB,LPG consumed by the transportation sector.
+LGACD,LPG price in the transportation sector.
+LGACP,LPG consumed by the transportation sector.
+LGACV,LPG expenditures in the transportation sector.
+LGCCB,LPG consumed by the commercial sector.
+LGCCD,LPG price in the commercial sector.
+LGCCP,LPG consumed by the commercial sector.
+LGCCV,LPG expenditures in the commercial sector.
+LGICB,LPG consumed by the industrial sector.
+LGICD,LPG price in the industrial sector.
+LGICP,LPG consumed by the industrial sector.
+LGICV,LPG expenditures in the industrial sector.
+LGISB,LPG consumed in the industrial sector excluding refinery fuel.
+LGRCB,LPG consumed by the residential sector.
+LGRCD,LPG price in the residential sector.
+LGRCP,LPG consumed by the residential sector.
+LGRCV,LPG expenditures in the residential sector.
+LGRFB,LPG consumed as refinery fuel.
+LGTCB,LPG total consumption.
+LGTCD,"LPG average price, all sectors."
+LGTCK,"Factor for converting LPG physical units to Btu, United States only."
+LGTCP,LPG total consumption.
+LGTCV,LPG total expenditures.
+LGTXB,LPG total end-use consumption.
+LGTXD,"LPG average price, all end-use sectors."
+LGTXP,LPG total end-use consumption.
+LGTXV,LPG total end-use expenditures.
+LOACB,The transportation sector's share of electrical system energy losses.
+LOCCB,The commercial sector's share of electrical system energy losses.
+LOICB,The industrial sector's share of electrical system energy losses.
+LORCB,The residential sector's share of electrical system energy losses.
+LOTCB,Total electrical system energy losses.
+LOTXB,Total electrical system energy losses allocated to the end-use sectors.
+LUACB,Lubricants consumed by the transportation sector.
+LUACD,Lubricants price in the transportation sector.
+LUACP,Lubricants consumed by the transportation sector.
+LUACV,Lubricants expenditures in the transportation sector.
+LUICB,Lubricants consumed by the industrial sector.
+LUICD,Lubricants price in the industrial sector.
+LUICP,Lubricants consumed by the industrial sector.
+LUICV,Lubricants expenditures in the industrial sector.
+LUTCB,Lubricants total consumption.
+LUTCD,"Lubricants average price, all sectors."
+LUTCP,Lubricants total consumption.
+LUTCV,"Lubricants average price, all sectors."
+LUTXB,Lubricants total end-use consumption.
+LUTXD,"Lubricants average price, all end-use sectors."
+LUTXP,Lubricants total end-use consumption.
+LUTXV,Lubricants total end-use expenditures.
+MBICB,Motor gasoline blending components consumed by the industrial sector.
+MBICP,Motor gasoline blending components consumed by the industrial sector.
+MGACB,Motor gasoline consumed by the transportation sector.
+MGACD,Motor gasoline price in the transportation sector.
+MGACP,Motor gasoline consumed by the transportation sector.
+MGACV,Motor gasoline expenditures in the transportation sector.
+MGCCB,Motor gasoline consumed by the commercial sector.
+MGCCD,Motor gasoline price in the commercial sector.
+MGCCP,Motor gasoline consumed by the commercial sector.
+MGCCV,Motor gasoline expenditures in the commercial sector.
+MGICB,Motor gasoline consumed by the industrial sector.
+MGICD,Motor gasoline price in the industrial sector.
+MGICP,Motor gasoline consumed by the industrial sector.
+MGICV,Motor gasoline expenditures in the industrial sector.
+MGTCB,Motor gasoline total consumption.
+MGTCD,"Motor gasoline average price, all sectors."
+MGTCK,"Factor converting motor gasoline physical units to Btu, United States only."
+MGTCP,Motor gasoline total consumption.
+MGTCV,Motor gasoline total expenditures.
+MGTXB,Motor gasoline total end-use consumption.
+MGTXD,"Motor gasoline average price, all end-use sectors."
+MGTXP,Motor gasoline total end-use consumption.
+MGTXV,Motor gasoline total end-use expenditures.
+MMTCB,Motor gasoline total consumption excluding fuel ethanol.
+MSICB,Miscellaneous petroleum products consumed by the industrial sector.
+MSICD,Miscellaneous petroleum products price in the industrial sector.
+MSICP,Miscellaneous petroleum products consumed by the industrial sector.
+MSICV,Miscellaneous petroleum products expenditures in the industrial sector.
+NAICB,Natural gasoline consumed by the industrial sector.
+NAICP,Natural gasoline consumed by the industrial sector.
+NGACB,Natural gas consumed by the transportation sector. 
+NGACD,Natural gas price in the transportation sector.
+NGACP,Natural gas consumed by the transportation sector.
+NGACV,Natural gas expenditures in the transportation sector.
+NGCCB,Natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels).
+NGCCD,Natural gas price in the commercial sector (including supplemental gaseous fuels).
+NGCCP,Natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels).
+NGCCV,Natural gas expenditures in the commercial sector (including supplemental gaseous fuels).
+NGEIB,Natural gas consumed by the electric power sector (including supplemental gaseous fuels).
+NGEID,Natural gas price in the electric power sector (including supplemental gaseous fuels).
+NGEIK,Factor for converting natural gas consumed by the electric power sector from physical units to Btu.
+NGEIP,Natural gas consumed by the electric power sector (including supplemental gaseous fuels).
+NGEIV,Natural gas expenditures in the electric power sector (including supplemental gaseous fuels).
+NGICB,Natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels).
+NGICD,Natural gas price in the industrial sector (including supplemental gaseous fuels).
+NGICP,Natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels).
+NGICV,Natural gas expenditures in the industrial sector (including supplemental gaseous fuels).
+NGISB,Natural gas consumed by the industrial sector excluding refinery fuel (including supplemental gaseous fuels).
+NGLPB,Natural gas consumed as lease and plant fuel.
+NGLPP,Natural gas consumed as lease and plant fuel.
+NGMPB,Natural gas marketed production.
+NGMPK,Conversion factor for natural gas marketed production.
+NGMPP,Natural gas marketed production.
+NGPZB,Natural gas consumed as pipeline fuel.
+NGPZP,Natural gas consumed as pipeline fuel.
+NGRCB,Natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels).
+NGRCD,Natural gas price in the residential sector (including supplemental gaseous fuels).
+NGRCP,Natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels).
+NGRCV,Natural gas expenditures in the residential sector (including supplemental gaseous fuels).
+NGRFB,Natural gas consumed as refinery fuel (including supplemental gaseous fuels). 
+NGTCB,Natural gas total consumption (including supplemental gaseous fuels).
+NGTCD,"Natural gas average price, all sectors (including supplemental gaseous fuels)."
+NGTCK,Factor for converting natural gas total consumption from physical units to Btu.
+NGTCP,Natural gas total consumption (including supplemental gaseous fuels).
+NGTCV,Natural gas total expenditures (including supplemental gaseous fuels).
+NGTXB,Natural gas total end-use consumption (including supplemental gaseous fuels).
+NGTXD,"Natural gas average price, all end-use sectors (including supplemental gaseous fuels)."
+NGTXK,Factor for converting natural gas consumed by all sectors other than electric power from physical units to Btu.
+NGTXP,Natural gas total end-use consumption (including supplemental gaseous fuels).
+NGTXV,Natural gas total end-use expenditures (including supplemental gaseous fuels).
+NGVHB,Natural gas consumed as vehicle fuel.
+NGVHP,Natural gas consumed as vehicle fuel.
+NNACB,Natural gas consumed by the transportation sector.  (Code used in SEDS 2006.)
+NNCCB,Natural gas consumed by (delivered to) the commercial sector (excluding supplemental gaseous fuels).  (Code used in SEDS 2006.)
+NNEIB,Natural gas consumed by the electric power sector (excluding supplemental gaseous fuels).  (Code used in SEDS 2006.)
+NNICB,Natural gas consumed by (delivered to) the industrial sector (excluding supplemental gaseous fuels).  (Code used in SEDS 2006.)
+NNRCB,Natural gas consumed by (delivered to) the residential sector (excluding supplemental gaseous fuels).  (Code used in SEDS 2006.)
+NNTCB,Natural gas total consumption (excluding supplemental gaseous fuels).
+NUEGB,Electricity produced from nuclear power by the electric power sector.
+NUEGD,Nuclear fuel price in the electric power sector.
+NUEGP,Electricity produced from nuclear power by the electric power sector.
+NUEGV,Nuclear fuel expenditures in the electric power sector.
+NUETB,Electricity produced from nuclear power.
+NUETD,"Nuclear fuel average price, all sectors."
+NUETK,"Factor for converting electricity produced from nuclear power from physical units to Btu, United States only."
+NUETP,Electricity produced from nuclear power.
+NUETV,Nuclear fuel total expenditures.
+P1ICB,"Asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" consumed by the industrial sector."
+P1ICD,"Asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" average price in the  industrial sector."
+P1ICP,"Asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" consumed by the industrial sector."
+P1ICV,"Asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" expenditures in the  industrial sector."
+P1TCB,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total consumption."
+P1TCD,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" average price, all sectors."
+P1TCP,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total consumption."
+P1TCV,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total expenditures."
+P1TXB,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use consumption."
+P1TXD,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" average price, all end-use sectors."
+P1TXP,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use consumption."
+P1TXV,"Asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use expenditures."
+P5RFB,"Other petroleum products (SG and PC consumed as process fuel and AB, MB, PP, and UO consumed as intermediate products)."
+PAACB,All petroleum products consumed by the transportation sector.
+PAACD,All petroleum products average price in the transportation sector.
+PAACK,"Factor for converting all petroleum products consumed by the transportation sector from physical units to Btu, United States only."
+PAACP,All petroleum products consumed by the transportation sector.
+PAACV,All petroleum products total expenditures in the transportation sector.
+PACCB,All petroleum products consumed by the commercial sector.
+PACCD,All petroleum products average price in the commercial sector.
+PACCK,"Factor for converting all petroleum products consumed by the commercial sector from physical units to Btu, United States only."
+PACCP,All petroleum products consumed by the commercial sector.
+PACCV,All petroleum products total expenditures in the commercial sector.
+PAEIB,All petroleum products consumed by the electric power sector.
+PAEID,All petroleum products average price in the electric power sector.
+PAEIK,"Factor for converting all petroleum products consumed by the electric power sector from physical units to Btu, United States only."
+PAEIP,All petroleum products consumed by the electric power sector.
+PAEIV,All petroleum products total expenditures in the electric power sector.
+PAHCK,"Factor for converting all petroleum products consumed by the residential and commercial sectors from physical units to Btu, United States only."
+PAICB,All petroleum products consumed by the industrial sector.
+PAICD,All petroleum products average price in the industrial sector.
+PAICK,"Factor for converting all petroleum products consumed by the industrial sector from physical units to Btu, United States only."
+PAICP,All petroleum products consumed by the industrial sector.
+PAICV,All petroleum products total expenditures in the industrial sector.
+PAPRB,Crude oil production (including lease condensate).
+PAPRP,Crude oil production (including lease condensate).
+PARCB,All petroleum products consumed by the residential sector.
+PARCD,All petroleum products average price in the residential sector.
+PARCK,"Factor for converting all petroleum products consumed by the residential sector from physical units to Btu, United States only."
+PARCP,All petroleum products consumed by the residential sector.
+PARCV,All petroleum products total expenditures in the residential sector.
+PATCB,All petroleum products total consumption.
+PATCD,"All petroleum products average price, all sectors."
+PATCK,"Factor for converting all petroleum products total consumption from physical units to Btu, United States only."
+PATCP,All petroleum products total consumption.
+PATCV,All petroleum products total expenditures.
+PATXB,All petroleum products total end-use consumption.
+PATXD,"All petroleum products average price, all end-use sectors."
+PATXP,All petroleum products total end-use consumption.
+PATXV,All petroleum products total end-use expenditures.
+PCCCB,Petroleum coke consumed by the commercial sector.
+PCCCD,Petroleum coke price in the commercial sector.
+PCCCP,Petroleum coke consumed by the commercial sector.
+PCCCV,Petroleum coke expenditures in the commercial sector.
+PCEIB,Petroleum coke consumed by the electric power sector.
+PCEID,Petroleum coke price in the electric power sector.
+PCEIP,Petroleum coke consumed by the electric power sector.
+PCEIV,Petroleum coke expenditures in the electric power sector.
+PCICB,Petroleum coke consumed by the industrial sector.
+PCICD,Petroleum coke price in the industrial sector.
+PCICP,Petroleum coke consumed by the industrial sector.
+PCICV,Petroleum coke expenditures in the industrial sector.
+PCISB,Petroleum coke price in the industrial sector excluding refinery fuel.
+PCRFB,Petroleum coke consumed as refinery fuel.
+PCTCB,Petroleum coke total consumption.
+PCTCD,"Petroleum coke average price, all sectors."
+PCTCP,Petroleum coke total consumption.
+PCTCV,Petroleum coke total expenditures.
+PEACD,Primary energy average price in the transportation sector.
+PEACV,Primary energy total expenditures in the transportation sector.
+PECCD,Primary energy average price in the commercial sector.
+PECCV,Primary energy total expenditures in the commercial sector.
+PEEID,Primary energy average price in the electric power sector.
+PEEIV,Primary energy total expenditures in the electric power sector.
+PEICD,Primary energy average price in the industrial sector.
+PEICV,Primary energy total expenditures in the industrial sector.
+PERCD,Primary energy average price in the residential sector.
+PERCV,Primary energy total expenditures in the residential sector.
+PETCD,"Primary energy average price, all sectors."
+PETCV,Primary energy total expenditures.
+PETXD,"Primary energy average price, all end-use sectors."
+PETXV,Primary energy total end-use expenditures.
+PLICB,Plant condensate consumed by the industrial sector.
+PLICP,Plant condensate consumed by the industrial sector.
+PMTCB,All petroleum products total consumption excluding fuel ethanol.
+POICB,Other petroleum products consumed by the industrial sector.
+POICD,Other petroleum products average price in the industrial sector.
+POICP,Other petroleum products consumed by the industrial sector.
+POICV,Other petroleum products total expenditures in the industrial sector.
+POTCB,Other petroleum products total consumption.
+POTCD,"Other petroleum products average price, all sectors."
+POTCP,Other petroleum products total consumption.
+POTCV,Other petroleum products total expenditures.
+POTXB,Other petroleum products total end-use consumption.
+POTXD,"Other petroleum products average price, all end-use sectors."
+POTXP,Other petroleum products total end-use consumption.
+POTXV,Other petroleum products total end-use expenditures.
+PPICB,Pentanes plus consumed by the industrial sector.
+PPICP,Pentanes plus consumed by the industrial sector.
+REPRB,Renewable energy production.
+RETCB,Renewable energy total consumption.
+RFACB,Residual fuel oil consumed by the transportation sector.
+RFACD,Residual fuel oil price in the transportation sector.
+RFACP,Residual fuel oil consumed by the transportation sector.
+RFACV,Residual fuel oil expenditures in the transportation sector.
+RFCCB,Residual fuel oil consumed by the commercial sector.
+RFCCD,Residual fuel oil price in the commercial sector.
+RFCCP,Residual fuel oil consumed by the commercial sector.
+RFCCV,Residual fuel oil expenditures in the commercial sector.
+RFEIB,Residual fuel oil consumed by the electric power sector.
+RFEID,Residual fuel oil price in the electric power sector.
+RFEIP,Residual fuel oil consumed by the electric power sector.
+RFEIV,Residual fuel oil expenditures in the electric power sector.
+RFICB,Residual fuel oil consumed by the industrial sector.
+RFICD,Residual fuel oil price in the industrial sector.
+RFICP,Residual fuel oil consumed by the industrial sector
+RFICV,Residual fuel oil expenditures in the industrial sector.
+RFISB,Residual fuel oil consumed by the industrial sector excluding refinery fuel.
+RFRFB,Residual fuel oil consumed as refinery fuel.
+RFTCB,Residual fuel oil total consumption.
+RFTCD,"Residual fuel oil average price, all sectors."
+RFTCP,Residual fuel oil total consumption.
+RFTCV,Residual fuel oil total expenditures.
+RFTXB,Residual fuel oil total end-use consumption.
+RFTXD,"Residual fuel oil average price, all end-use sectors."
+RFTXP,Residual fuel oil total end-use consumption.
+RFTXV,Residual fuel oil total end-use expenditures.
+ROPRB,"Renewable energy production, other than fuel ethanol."
+SFCCB,Supplemental gaseous fuels consumed by the commercial sector.
+SFEIB,Supplemental gaseous fuels consumed by the electric power sector.
+SFINB,Supplemental gaseous fuels consumed by the industrial sector.
+SFRCB,Supplemental gaseous fuels consumed by the residential sector.
+SFTCB,Supplemental gaseous fuels total consumption.
+SGICB,Still gas consumed by the industrial sector.
+SGICP,Still gas consumed by the industrial sector.
+SNICB,Special naphthas consumed by the industrial sector.
+SNICD,Special naphthas price in the industrial sector.
+SNICP,Special naphthas consumed by the industrial sector.
+SNICV,Special naphthas expenditures in the industrial sector.
+SOEGB,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+SOEGP,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+SOHCB,Solar thermal energy consumed by the residential and commercial sectors.
+SOTCB,Photovoltaic and solar thermal energy total consumption.
+SOTXB,Photovoltaic and solar thermal energy total end-use consumption.
+TEACB,Total energy consumed by the transportation sector.
+TEACD,Total energy average price in the transportation sector.
+TEACV,Total energy expenditures in the transportation sector.
+TECCB,Total energy consumed by the commercial sector.
+TECCD,Total energy average price in the commercial sector.
+TECCV,Total energy expenditures in the commercial sector.
+TEEIB,Total energy consumed by the electric power sector.
+TEGDS,Energy expenditures as share of current-dollar GDP.
+TEICB,Total energy consumed by the industrial sector.
+TEICD,Total energy average price in the industrial sector.
+TEICV,Total energy expenditures in the industrial sector.
+TEPFB,Total energy used as process fuel.
+TEPRB,Total energy production.
+TERCB,Total energy consumed by the residential sector.
+TERCD,Total energy average price in the residential sector.
+TERCV,Total energy total expenditures in the residential sector.
+TERFB,Total energy used as refinery fuel.
+TETCB,Total energy consumption.
+TETCD,Total energy average price.
+TETCV,Total energy expenditures.
+TETGR,Total energy consumed per dollar of real gross domestic product.
+TETPB,Total energy consumption per capita.
+TETPV,Total energy expenditures per capita.
+TETXB,Total end-use energy consumption.
+TETXD,Total end-use energy average price.
+TETXV,Total end-use energy expenditures.
+TNACB,Total energy consumed by the transportation sector excluding the sector's share of electrical system energy losses.
+TNCCB,Total energy consumed by the commercial sector excluding the sector's share of electrical system energy losses.
+TNICB,Total energy consumed by the industrial sector excluding the sector's share of electrical system energy losses.
+TNRCB,Total energy consumed by the residential sector excluding the sector's share of electrical system energy losses.
+TNSCB,Total primary energy and electricity consumed.
+TNTXB,Total primary energy and electricity consumed by the end-use sectors.
+TPOPP,Resident population including Armed Forces.
+UOICB,Unfinished oils consumed by the industrial sector.
+UOICP,Unfinished oils consumed by the industrial sector.
+USICB,Unfractionated stream consumed by the industrial sector.
+USICP,Unfractionated stream consumed by the industrial sector.
+WDCCB,Wood consumed by the commercial sector
+WDEIB,Wood and waste consumed by the electric power sector.
+WDICB,Wood consumed by the industrial sector.
+WDRCB,Wood consumed by the residential sector.
+WDRCD,Wood price in the residential sector.
+WDRCP,Wood consumed by the residential sector.
+WDRCV,Wood expenditures in the residential sector. 
+WDRSB,Wood consumed in the residential sector at a cost.
+WDRXB,Wood consumed in the residential sector at no cost.
+WSCCB,Waste consumed by the commercial sector
+WSEIB,Waste consumed by the electric power sector.
+WSICB,Waste consumed by the industrial sector.
+WWCCB,Wood and waste consumed by the commercial sector.
+WWCCD,Wood and waste price in the commercial sector.
+WWCCV,Wood and waste expenditures in the commercial sector.
+WWCSB,Wood and waste consumed in the commercial sector at a cost.
+WWCXB,Wood and waste consumed in the commercial sector at no cost.
+WWEIB,Wood and waste consumed by the electric power sector.
+WWEID,Wood and waste price in the electric power sector.
+WWEIV,Wood and waste expenditures in the electric power sector.
+WWICB,Wood and waste consumed by the industrial sector.
+WWICD,Wood and waste price in the industrial sector.
+WWICV,Wood and waste expenditures in the industrial sector.
+WWISB,Wood and waste consumed in the industrial sector at a cost.
+WWIXB,Wood and waste consumed in the industrial sector at no cost.
+WWTCB,Wood and waste total consumption.
+WWTCD,"Wood and waste average price, all sectors."
+WWTCV,Wood and waste total expenditures.
+WWTXB,Wood and waste total end-use consumption.
+WWTXD,"Wood and waste average price, all end-use sectors."
+WWTXV,Wood and waste total end-use expenditures.
+WXICB,Waxes consumed by the industrial sector.
+WXICD,Waxes price in the industrial sector.
+WXICP,Waxes consumed by the industrial sector.
+WXICV,Waxes expenditures in the industrial sector.
+WYEGB,Electricity produced from wind energy by the electric power sector.
+WYEGP,Electricity produced from wind energy by the electric power sector.
+WYTCB,Electricity produced from wind energy.
